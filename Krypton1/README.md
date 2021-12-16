@@ -1,6 +1,6 @@
 # Krypton1 - Walkthrough
 
-##Instruction:
+## Instruction:
 Welcome to Krypton!
 
 This game is intended to give hands on experience with cryptography
@@ -25,7 +25,7 @@ the cipher text.
 
 Enjoy!
 
-#Solution:
+# Solution:
 
 Well, we'll print the `krypton2` file:
 krypton1@krypton:/krypton/krypton1$ cat krypton2

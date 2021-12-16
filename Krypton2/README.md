@@ -1,6 +1,6 @@
 # Krypton2 - Walkthrough
 
-##Instruction:
+## Instruction:
 Krypton 2
 
 ROT13 is a simple substitution cipher.
@@ -49,7 +49,7 @@ krypton2@melinda:/tmp/tmp.Wf2OnCpCDQ$ /krypton/krypton2/encrypt /etc/issue
 krypton2@melinda:/tmp/tmp.Wf2OnCpCDQ$ ls
 ciphertext  keyfile.dat
 
-#Solution:
+# Solution:
 
 The key (haha) here is to follow their example,
 and then check what is the key.
