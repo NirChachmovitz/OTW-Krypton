@@ -11,7 +11,9 @@ Use this password to log in to krypton.labs.overthewire.org with username krypto
 
 well, let's read about base64. Apperantly it decodes/encodes using the base64 method:
 
+```
 nir@LAPTOP-8C4IQCNL:/mnt/c/tmp$ echo S1JZUFRPTklTR1JFQVQ= | base64 -d
 KRYPTONISGREAT
+```
 
 Well, we're done. :)

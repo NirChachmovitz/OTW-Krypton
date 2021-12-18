@@ -28,12 +28,16 @@ Enjoy!
 # Solution:
 
 Well, we'll print the `krypton2` file:
+```
 krypton1@krypton:/krypton/krypton1$ cat krypton2
 YRIRY GJB CNFFJBEQ EBGGRA
+```
 
 Let's decode it using the rot13 algorithm:
 
+```
 krypton1@krypton:/krypton/krypton1$ cat krypton2 | tr 'A-Za-z' 'N-ZA-Mn-za-m'
 LEVEL TWO PASSWORD ROTTEN
+```
 
 DONE!

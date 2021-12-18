@@ -28,6 +28,7 @@ Enjoy.
 
 ## Solution
 
+```
 krypton3@krypton:/krypton/krypton3$ ls -la
 total 36
 drwxr-xr-x 2 root     root     4096 May 19  2020 .
@@ -39,6 +40,7 @@ drwxr-xr-x 8 root     root     4096 May 19  2020 ..
 -rw-r----- 1 krypton3 krypton3   37 May 19  2020 HINT2
 -rw-r----- 1 krypton3 krypton3   42 May 19  2020 krypton4
 -rw-r----- 1 krypton3 krypton3  785 May 19  2020 README
+```
 
 I created a python script to print the frequencies of each letter, and sort it.
 
